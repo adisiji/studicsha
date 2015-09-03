@@ -1,0 +1,6 @@
+D:\ad1\C#\studikode\buatobjek\buatobjek\bin\Debug\buatobjek.exe.config
+D:\ad1\C#\studikode\buatobjek\buatobjek\obj\Debug\buatobjek.csprojResolveAssemblyReference.cache
+D:\ad1\C#\studikode\buatobjek\buatobjek\bin\Debug\buatobjek.exe
+D:\ad1\C#\studikode\buatobjek\buatobjek\bin\Debug\buatobjek.pdb
+D:\ad1\C#\studikode\buatobjek\buatobjek\obj\Debug\buatobjek.exe
+D:\ad1\C#\studikode\buatobjek\buatobjek\obj\Debug\buatobjek.pdb
